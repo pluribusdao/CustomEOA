@@ -1,6 +1,4 @@
-# CustomEOA
-
-By Pluribus DAO
+# CustomEOA by Pluribus DAO
 
 CustomEOA is a lightweight vanity EOA generator for Ethereum.
 It searches for an address that matches a pattern you define.
